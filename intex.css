@@ -1,0 +1,34 @@
+.body{
+    width:900px;
+    margin: auto;
+}
+.eegii{
+    background-color: aqua;
+    height: 100px;
+    text-align: center;
+}
+.amaraa{
+    background-color: rgb(229, 255, 0);
+    height: 100px;
+    text-align: center;
+}
+.enkh{
+    background-color: rgb(68, 0, 255);
+    height: 100px;
+    text-align: center;
+}
+.utas{
+    background-color: rgb(255, 72, 0);
+    height: 100px;
+    text-align: center;
+}
+.gar{
+    background-color: rgb(174, 0, 255);
+    height: 100px;
+    text-align: center;
+}
+.mongolz{
+    background-color: rgb(0, 255, 13);
+    height: 100px;
+    text-align: center;
+}
