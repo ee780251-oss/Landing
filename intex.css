@@ -1,34 +1,95 @@
-.body{
-    width:900px;
+body{
     margin: auto;
 }
+.header{
+    height: 80px;
+    background-color: #101010;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text{
+    color:#F4F4F4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 0;
+}
+.dot{
+    color: green;
+    width: 2.25px;
+    height: 3px;
+}
+.container{
+    max-width: 1440px;
+    height: 3598px;
+    opacity: 1;
+    top: 247px;
+    left: 353px;
+    background-color: #F4F4F4;
+    margin: auto;
+}
+.Intro{
+text-align: center;
+justify-content: center;
+align-items: center;
+margin-top: 100px;
+}
+.Khuvsgul{
+font-family: Montserrat;
+font-weight: 700;
+font-style: normal;
+font-size: 72px;
+letter-spacing: 0;
+text-align: center;
+vertical-align: bottom;
+color: #303030;
+width: 555px;
+opacity: 1;
+}
+.trip{
+font-family: Montserrat;
+font-weight: 700;
+font-style: normal;
+font-size: 24px;
+letter-spacing: 0;
+vertical-align: bottom;
+text-transform: uppercase;
+width: 58px;
+height: 29px;
+opacity: 1;
+color: #ABABAB;
+}
+.images{
+    padding-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
 .eegii{
-    background-color: aqua;
-    height: 100px;
-    text-align: center;
+    margin-top: 240px;
 }
-.amaraa{
-    background-color: rgb(229, 255, 0);
-    height: 100px;
-    text-align: center;
 }
-.enkh{
-    background-color: rgb(68, 0, 255);
-    height: 100px;
-    text-align: center;
+.eegii{
+    width: 350px;
+    font-weight: 700px;
+    font-size: 24px;
+    color: #ABABAB;
+    display: flex;
 }
-.utas{
-    background-color: rgb(255, 72, 0);
-    height: 100px;
-    text-align: center;
+
+.middle_section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 240px;
+
 }
-.gar{
-    background-color: rgb(174, 0, 255);
-    height: 100px;
-    text-align: center;
-}
-.mongolz{
-    background-color: rgb(0, 255, 13);
-    height: 100px;
-    text-align: center;
+
+.middle_seciton_left{
+    width: 358px;
+    margin-right: 150px;
+    height: 796px;
+    gap: 80px;
 }
