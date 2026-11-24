@@ -1,0 +1,141 @@
+body {
+  margin: auto;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+main {
+  max-width: 1200px;
+  margin: auto;
+}
+.header {
+  height: 80px;
+  background-color: #101010;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text {
+  color: #f4f4f4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 1;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin-bottom: 0;
+}
+.dot {
+  color: green;
+  width: 2.25px;
+  height: 3px;
+}
+.container {
+  max-width: 1440px;
+  height: 3598px;
+  opacity: 1;
+  top: 247px;
+  left: 353px;
+  background-color: #f4f4f4;
+  margin: auto;
+}
+.Intro {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.Khuvsgul {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 72px;
+  letter-spacing: 0;
+  text-align: center;
+  vertical-align: bottom;
+  color: #303030;
+  width: 555px;
+  opacity: 1;
+  margin-bottom: 8px;
+}
+.trip {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 24px;
+  color: #ababab;
+}
+.images {
+  padding-top: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.eegii {
+  width: 350px;
+  font-weight: 700px;
+  font-size: 24px;
+  color: #ababab;
+  display: flex;
+}
+
+.middle_section {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 240px;
+  font-weight: 700;
+}
+
+.test {
+  font-weight: 700;
+  font-size: 48px;
+  color: #303030;
+  font-style: montserrat;
+}
+
+.middle_seciton_left {
+  width: 358px;
+  margin-right: 150px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+
+}
+
+.EEEEE {
+  color: #ababab;
+  width: 198px;
+  height: 29px;
+  font-size: 24px;
+}
+
+.middle_section_left_route {
+  display: flex;
+}
+
+.middle_section_left_route_D1 {
+  width: 56px;
+  height: 56px;
+  background-color: black;
+  color: green;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-size: 17px;
+  margin-right: 16px;
+}
+
+.day-dashed {
+  position: absolute;
+  height: 45px;
+  border-left: 45px;
+  border: 2px black dashed;
+  bottom: -45px;
+}
+.RRRRR {
+  color: #777777;
+}
